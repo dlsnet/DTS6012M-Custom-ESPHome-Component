@@ -10,7 +10,7 @@ A custom ESPHome component for the DTS6012M ultrasonic distance sensor using UAR
 - **Resolution**: 1mm
 - **Output**: UART serial communication
 - **Baud Rate**: 9600 bps
-- **Voltage**: 3.3V-5V DC
+- **Voltage**: 3.3V DC
 
 ## Installation
 
