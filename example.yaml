@@ -6,6 +6,11 @@ esphome:
   platform: ESP32
   board: nodemcu-32s
 
+external_components:
+  - source:
+      type: local
+      path: components 
+
 wifi:
   ssid: !secret wifi_ssid
   password: !secret wifi_password
